@@ -1,2 +1,2 @@
 # Firstdemorepo
-This is my firest repository
+This is my first repository
